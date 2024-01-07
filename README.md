@@ -1,4 +1,4 @@
-# AWS Cloud Sales Application
+# Global Retail Data Management: Deploying Sales Application on AWS EC2 and AWS Lambda
 
 __A global retail sales data summarization and consolidation service using AWS services__
 - - - -
